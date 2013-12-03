@@ -18,7 +18,7 @@ public class TestArgs {
 	
 	private static void print(int[] i) {		// Print Method
 		for (int n = 0; n < i.length; n++) {
-			System.out.print(i[n]);
+			System.out.print(i[n] + " ");
 		}
 	}
 	
